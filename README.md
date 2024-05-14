@@ -23,3 +23,5 @@ Tópicos que se aconseja tener en el readme.md.
 
 <h3>Aquí un artículo que nos ayuda con consejos para redactar un buen archivo readme.md</h3>
 https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+
+Esta línea está aquí para aprender sobre commits.
